@@ -8,3 +8,8 @@ if __name__ == "__main__":
   else:
     # implement later
     pass
+
+  # Using the Python pass statement with the if statement example
+
+  # if condition:
+  #   pass
