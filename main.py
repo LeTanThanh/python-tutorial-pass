@@ -23,3 +23,11 @@ if __name__ == "__main__":
 
   while True:
     pass
+
+  # Using the Python pass statement with functions and classes
+
+  def f():
+    pass
+
+  class Stream:
+    pass
