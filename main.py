@@ -18,3 +18,8 @@ if __name__ == "__main__":
 
   for index in range(1, 100):
     pass
+
+  # Using the Python pass statement with the while statement
+
+  while True:
+    pass
