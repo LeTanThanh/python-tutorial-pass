@@ -11,5 +11,10 @@ if __name__ == "__main__":
 
   # Using the Python pass statement with the if statement example
 
-  # if condition:
-  #   pass
+  if True:
+    pass
+
+  # Using the Python pass statement with the for statement
+
+  for index in range(1, 100):
+    pass
