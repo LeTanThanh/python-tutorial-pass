@@ -21,8 +21,8 @@ if __name__ == "__main__":
 
   # Using the Python pass statement with the while statement
 
-  while True:
-    pass
+  # while True:
+  #   pass
 
   # Using the Python pass statement with functions and classes
 
